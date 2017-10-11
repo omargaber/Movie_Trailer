@@ -11,7 +11,7 @@ The project's main focus was to consolidate the concept of OOP using Python. The
 * **website.py** is the file where instances of the class Movie are created.
 * **media.py** is where the class Movie is defined.
 * **fresh_tomatoes.py** contains the html code and the functions that will take the movie instances to display in the webpage.
-* **Movie_Trailer.html** is the static webpage generated from the python code.
+* **Movie_Trailers.html** is the static webpage generated from the python code.
 
 ## Requirements
 * To run this project, you need to have **Python 2.7** installed on your machine. Download the release best suited for your machine through this [link](https://www.python.org/download/releases/2.7/)
