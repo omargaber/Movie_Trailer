@@ -52,15 +52,15 @@ the_circle = media.Movie("The Circle",
 
 # A list called movies stores all of the instances (objects) created
 movies = [
-    dead_poet_society,
-    scent_of_a_woman,
-    good_will_hunting,
-    hacksaw_ridge,
-    saving_private_ryan,
-    cast_away,
-    forrest_gump,
-    pursuit_of_happyness,
-    the_circle
+	dead_poet_society,
+	scent_of_a_woman,
+	good_will_hunting,
+	hacksaw_ridge,
+	saving_private_ryan,
+	cast_away,
+	forrest_gump,
+	pursuit_of_happyness,
+	the_circle
 ]
 
 
