@@ -7,6 +7,11 @@ This is the **first** project made for fulfillment of [Udacity's Full Stack Web 
 ##Abstract
 The project's main focus was to consolidate the concept of OOP using Python. The hands-on implementation was to create a server side code to store a list of my favorite movies along with the movies' poster images and also the YouTube trailer URLs.
 
+##Files
+* **website.py** is the file where instances of the class Movie are created.
+* **media.py** is where the class Movie is defined.
+* **fresh_tomatoes.py** contains the html code and the functions that will take the movie instances to display in the webpage.
+
 ##Requirements
 * To run this project, you need to have **Python 2.7** installed on your machine. Download the release best suited for your machine through this [link](https://www.python.org/download/releases/2.7/)
 
