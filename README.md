@@ -29,7 +29,7 @@ To add your favorite movie, you need to access the **website.py** file to enter 
 ### Adding your favorite movie.
 * Open **website.py** in your editor.
 * Let's say for instance you want to add the movie, and let it be Inception for example. To add the movie, enter the following snippet: <br />
-`inception = media.Movie("Inception", "Dom Cobb is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious.", "http://t2.gstatic.com/images?q=tbn:ANd9GcRo9vfJCM6dzPkZHIHBVCtlJnAnew9Ai26kEdrli0-tfmatmciD", "https://www.youtube.com/watch?v=YoHD9XEInc0")` 
+`inception = media.Movie("Inception", """Cobb is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious.""", """http://t2.gstatic.com/images?q=tbn:ANd9GcRo9vfJCM6dzPkZHIHBVCtlJnAnew9Ai26kEdrli0-tfmatmciD""", """https://www.youtube.com/watch?v=YoHD9XEInc0""")` 
 * The previous line creates an instance of the Movie class called inception and passes it its name, storyline, poster image url and YouTube trailer url. It's exactly in the order stated.
 * Next to that, in the list called movies declared after the movies' instances created, add **inception** to the list of movies.
 * The function `open_movies_page` is declared in `fresh_tomatoes.py` and it takes the movies list and generates the static webpage we need to display the list of your favorite movies.
